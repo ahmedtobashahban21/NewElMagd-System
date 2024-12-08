@@ -29,7 +29,7 @@ Here are some visuals of the NewElMagd System:
 ![Employee Management Screen](./images/Screenshot (20).png )
 *Description: A user-friendly interface to manage employee details.*
 
-![Daily Work Tracking](./images/daily-work-tracking.png)
+![Daily Work Tracking][(./images/daily-work-tracking.png)](https://github.com/ahmedtobashahban21/NewElMagd-System/blob/main/images/Screenshot%20(20).png?raw=true)
 *Description: Record and view daily work data with ease.*
 
 ## Video Demonstration
