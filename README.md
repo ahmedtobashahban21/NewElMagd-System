@@ -14,38 +14,19 @@ The NewElMagd System is a comprehensive application tailored specifically for cl
 - **Backend**: .NET Framework 4.7.1
 - **Database**: SQL Server (ADO.NET for interaction)
 
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ahmed-Toba/NewElMagd-System.git
-   ```
-2. Open the solution in Visual Studio.
-3. Set up the database connection string in the configuration file.
-4. Build and run the application.
-
 ## Screenshots
 Here are some visuals of the NewElMagd System:
 
-![Employee Management Screen](./images/Screenshot (20).png )
-*Description: A user-friendly interface to manage employee details.*
-
-![Daily Work Tracking][(./images/daily-work-tracking.png)](https://github.com/ahmedtobashahban21/NewElMagd-System/blob/main/images/Screenshot%20(20).png?raw=true)
-*Description: Record and view daily work data with ease.*
 
 ## Video Demonstration
 Watch the video demonstration to understand the system in action:
 
 [![NewElMagd System Demo](./images/video-thumbnail.png)](https://www.youtube.com/watch?v=your-video-link)
 
-## Contribution
-Feel free to fork the repository and make improvements. Pull requests are welcome!
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 For any inquiries or feedback, please contact:
 - **Name**: Ahmed Toba Shaban
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [ahmedtobashahbantest21@gmail.com](mailto:your-email@example.com)
 
 
