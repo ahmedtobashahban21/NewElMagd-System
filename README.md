@@ -16,7 +16,7 @@ The NewElMagd System is a comprehensive application tailored specifically for cl
 
 ## Screenshots
 Here are some visuals of the NewElMagd System:
-
+![The main Screen](https://github.com/ahmedtobashahban21/NewElMagd-System/blob/main/images/Screenshot.png?raw=true)
 
 ## Video Demonstration
 Watch the video demonstration to understand the system in action:
