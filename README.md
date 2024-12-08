@@ -26,7 +26,7 @@ The NewElMagd System is a comprehensive application tailored specifically for cl
 ## Screenshots
 Here are some visuals of the NewElMagd System:
 
-![Employee Management Screen](./images/Screenshot(20).png )
+![Employee Management Screen](./images/Screenshot (20).png )
 *Description: A user-friendly interface to manage employee details.*
 
 ![Daily Work Tracking](./images/daily-work-tracking.png)
