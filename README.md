@@ -21,7 +21,8 @@ Here are some visuals of the NewElMagd System:
 ## Video Demonstration
 Watch the video demonstration to understand the system in action:
 
-[![NewElMagd System Demo](https://github.com/user-attachments/assets/0eb54b47-165c-4f20-a1ff-30a3f5df7e80)
+[Watch the video here](https://github.com/user-attachments/assets/0eb54b47-165c-4f20-a1ff-30a3f5df7e80)
+
 
 
 ## Contact
